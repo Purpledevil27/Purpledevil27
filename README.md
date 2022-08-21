@@ -33,10 +33,12 @@
 
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purpledevil27" alt="GitHub Stats" /> <br/><br/>
-  
+  <b><em>GitHub Stats:</em></b> 
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purpledevil27" alt="GitHub Stats" /> 
+  <br/><br/>
+  </p>
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Purpledevil27&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purpledevil27&langs_count=10&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purpledevil27&langs_count=10&layout=compact) -->
